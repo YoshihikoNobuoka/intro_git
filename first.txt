@@ -6,4 +6,8 @@ Do it
 
 Change 1 git.add
 
-Change 2 gid.text
+Change 2 gid.commit
+
+.git add
+.git commit
+.git rm
