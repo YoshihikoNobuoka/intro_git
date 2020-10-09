@@ -3,3 +3,7 @@ Let's Practice Git
 Learn Git
 
 Do it
+
+Change 1 git.add
+
+Change 2 gid.text
