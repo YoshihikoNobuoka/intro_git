@@ -12,3 +12,4 @@ Change 2 gid.commit
 .git commit
 .git rm
 .git status
+.git diff
